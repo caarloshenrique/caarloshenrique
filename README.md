@@ -11,7 +11,7 @@
 <p>:1st_place_medal: Claro Campus Mobile 2019 and 2020 Finalist | <a href="https://github.com/caarloshenrique/sal-app">Soil Analysis by Light</a><br>
 :trophy: SAMSUNG UNICEF Marathon 2019 Finalist | <a href="https://github.com/developers-pantaneiros/game">Game of Student</a> <br>
 :1st_place_medal: Claro Campus Mobile 2018 Finalist | <a href="https://github.com/caarloshenrique/highfiren">Highfiren</a><br>
-:trophy: SAMSUNG UNICEF Marathon 2018 Finalist |<a href="https://github.com/caarloshenrique/IGFE">IGFE</a></br>
+:trophy: SAMSUNG UNICEF Marathon 2018 Finalist | <a href="https://github.com/caarloshenrique/IGFE">IGFE</a></br>
 <br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
