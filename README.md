@@ -1,6 +1,4 @@
-<h3 align="center">
-  Hi, I'm Carlos :vulcan_salute:
-</h3>
+### Hi, I'm Carlos :vulcan_salute:
 
 :man_technologist: Software developer
 
