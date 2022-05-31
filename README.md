@@ -4,7 +4,7 @@
 
 :man_student: Master's Degree in Applied Computing
 
-:brain: Web application development with: NuxtJs, VueJs and NodeJs
+:brain: Web application development with: NuxtJs, VueJs, ReactJs, NextJs and NodeJs
 
 ### Achievements :trophy:
 
