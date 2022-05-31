@@ -4,11 +4,12 @@
 
 :man_student: Master's Degree in Applied Computing
 
-:brain: Web application development with : NuxtJs, VueJs and NodeJs
+:brain: Web application development with: NuxtJs, VueJs and NodeJs
 
 ### Achievements :trophy:
 
-<p>:1st_place_medal: Claro Campus Mobile 2019 and 2020 Finalist | <a href="https://github.com/caarloshenrique/sal-app">Soil Analysis by Light</a><br>
+<p>:2nd_place_medal: EloGroup Bootcamp 2021 Winner | <a href="https://github.com/elza-cast">ElzaCast</a><br>
+:1st_place_medal: Claro Campus Mobile 2019 and 2020 Finalist | <a href="https://github.com/caarloshenrique/sal-app">Soil Analysis by Light</a><br>
 :trophy: SAMSUNG UNICEF Marathon 2019 Finalist | <a href="https://github.com/developers-pantaneiros/game">Game of Student</a> <br>
 :1st_place_medal: Claro Campus Mobile 2018 Finalist | <a href="https://github.com/caarloshenrique/highfiren">Highfiren</a><br>
 :trophy: SAMSUNG UNICEF Marathon 2018 Finalist | <a href="https://github.com/caarloshenrique/IGFE">IGFE</a></br>
