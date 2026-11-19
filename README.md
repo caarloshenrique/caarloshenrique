@@ -2,10 +2,10 @@
 
 Software Engineer at [@Medprev](https://github.com/Medprev), a healthtech company: I work on the website where patients search for, schedule and buy medical appointments and exams.
 
-🛠️ TypeScript, React/Next.js, Node.js, GraphQL, PostgreSQL, Redis
-📈 Interested in performance, observability and quality (e2e testing with Playwright)
-🎓 Master's Degree in Applied Computing (UFMS)
-📊 Postgraduate Specialization in Data Science (USP)
+🛠️ TypeScript, React/Next.js, Node.js, GraphQL, PostgreSQL, Redis<br>
+📈 Interested in performance, observability and quality (e2e testing with Playwright)<br>
+🎓 Master's Degree in Applied Computing (UFMS)<br>
+📊 Postgraduate Specialization in Data Science (USP)<br>
 📍 Rio de Janeiro, Brazil
 
 ### Achievements :trophy:
