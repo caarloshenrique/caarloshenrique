@@ -1,10 +1,11 @@
-### Hi, I'm Carlos :vulcan_salute:
+### Hi, I'm Carlos 🖖
 
-:man_technologist: Software Engineer
+Software Engineer at [@Medprev](https://github.com/Medprev), a healthtech company: I work on the website where patients search for, schedule and buy medical appointments and exams.
 
-:man_student: Master's Degree in Applied Computing
-
-:brain: Web application development with: Next.js, React, TypeScript, Node.js, GraphQL, Vue.js and Nuxt.js
+- 🛠️ TypeScript, React/Next.js, Node.js, GraphQL, PostgreSQL, Redis
+- 📈 Interested in performance, observability and quality (e2e testing with Playwright)
+- 🎓 Master's Degree in Applied Computing
+- 📍 Rio de Janeiro, Brazil
 
 ### Achievements :trophy:
 
