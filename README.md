@@ -1,10 +1,10 @@
 ### Hi, I'm Carlos :vulcan_salute:
 
-:man_technologist: Software developer
+:man_technologist: Software Engineer
 
 :man_student: Master's Degree in Applied Computing
 
-:brain: Web application development with: NuxtJs, VueJs, ReactJs, NextJs and NodeJs
+:brain: Web application development with: Next.js, React, TypeScript, Node.js, GraphQL, Vue.js and Nuxt.js
 
 ### Achievements :trophy:
 
