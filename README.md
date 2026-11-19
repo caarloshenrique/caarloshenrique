@@ -6,6 +6,7 @@ Software Engineer at [@Medprev](https://github.com/Medprev), a healthtech compan
 - 📈 Interested in performance, observability and quality (e2e testing with Playwright)
 - 🎓 Master's Degree in Applied Computing (UFMS)
 - 📊 Postgraduate Specialization in Data Science (USP)
+- 📍 Rio de Janeiro, Brazil
 
 ### Achievements :trophy:
 
