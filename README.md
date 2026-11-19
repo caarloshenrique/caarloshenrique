@@ -5,7 +5,6 @@ Software Engineer at [@Medprev](https://github.com/Medprev), a healthtech compan
 - 🛠️ TypeScript, React/Next.js, Node.js, GraphQL, PostgreSQL, Redis
 - 📈 Interested in performance, observability and quality (e2e testing with Playwright)
 - 🎓 Master's Degree in Applied Computing
-- 📍 Rio de Janeiro, Brazil
 
 ### Achievements :trophy:
 
